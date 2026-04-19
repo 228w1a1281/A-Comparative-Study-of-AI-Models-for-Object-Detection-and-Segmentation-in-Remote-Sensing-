@@ -1,7 +1,6 @@
 # 🌍 A Comparative Study of AI Models for Object Detection and Segmentation in Remote Sensing
 
-This repository contains a complete implementation and comparative analysis of **AI models for object detection and segmentation** using remote sensing imagery. The work is organized into **Mini Projects (Mini1 & Mini2)** and a **Major Project**, along with supporting documents.
-
+This repository contains a complete implementation and comparative analysis of **AI models for object detection and segmentation** using remote sensing imagery. 
 ---
 ## 📂 Repository Structure
 
@@ -114,42 +113,42 @@ pip install numpy pandas matplotlib opencv-python torch torchvision
 Run all cells step-by-step
 Update dataset paths if required
 ---
-📽️ Project Presentation
+## 📽️ Project Presentation
 
 📄 B-27-1-f.pptx
 
 Includes:
 
--Problem Statement
--Methodology
--Implementation Workflow
--Results & Comparison
+- Problem Statement
+- Methodology
+- Implementation Workflow
+- Results & Comparison
 ---
 
-📄 Final Report
+## 📄 Final Report
 
 📄 Final Complete Report -B-27.pdf
 Includes detailed explanation of:
 
--Algorithms
--System architecture
--Results analysis
--Conclusion & future work
+- Algorithms
+- System architecture
+- Results analysis
+- Conclusion & future work
 
-🎯 Applications
--Urban Planning (Building Detection)
--Smart Agriculture (Tree Analysis)
--GIS Mapping
--Environmental Monitoring
+**🎯 Applications** 
+- Urban Planning (Building Detection)
+- Smart Agriculture (Tree Analysis)
+- GIS Mapping
+- Environmental Monitoring
 
 ---
-👩‍💻 Author
+## 👩‍💻 Author
 
-Miss Dasapalli Pravallika
+** Miss Dasapalli Pravallika ** 
 Velagapudi Ramakrishna Siddhartha Engineering College
 Vijayawada, India
 
-⭐ Key Highlights
+## ⭐ Key Highlights
 Comparative study of ML, DL, and Foundation Models
 Real-world satellite image applications
 End-to-end pipeline implementation
