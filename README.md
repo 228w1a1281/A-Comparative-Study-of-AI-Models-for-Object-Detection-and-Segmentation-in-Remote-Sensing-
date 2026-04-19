@@ -125,21 +125,23 @@ Methodology
 Implementation Workflow
 Results & Comparison
 ---
+
 📄 Final Report
 
 📄 Final Complete Report -B-27.pdf
-
 Includes detailed explanation of:
 
 Algorithms
 System architecture
 Results analysis
 Conclusion & future work
+
 🎯 Applications
 Urban Planning (Building Detection)
 Smart Agriculture (Tree Analysis)
 GIS Mapping
 Environmental Monitoring
+
 ---
 👩‍💻 Author
 
