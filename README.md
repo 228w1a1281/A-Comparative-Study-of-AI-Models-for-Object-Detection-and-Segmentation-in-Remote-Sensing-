@@ -3,7 +3,6 @@
 This repository contains a complete implementation and comparative analysis of **AI models for object detection and segmentation** using remote sensing imagery. The work is organized into **Mini Projects (Mini1 & Mini2)** and a **Major Project**, along with supporting documents.
 
 ---
-'''
 ## 📂 Repository Structure
 
 
@@ -144,7 +143,7 @@ Environmental Monitoring
 ---
 👩‍💻 Author
 
-Dasapalli Pravallika
+Miss Dasapalli Pravallika
 Velagapudi Ramakrishna Siddhartha Engineering College
 Vijayawada, India
 
