@@ -1,20 +1,19 @@
 # 🌍 A Comparative Study of AI Models for Object Detection and Segmentation in Remote Sensing
 
-This repository contains a complete implementation and comparative analysis of **AI models for object detection and segmentation** using remote sensing imagery. 
+This repository contains a complete implementation and comparative analysis of AI models for object detection and segmentation using remote sensing imagery. The work is organized into Mini Projects (Mini1 & Mini2) and a Major Project, along with supporting documents.
 ---
 ## 📂 Repository Structure
 
-
+```
 A-Comparative-Study-of-AI-Models/
-│── 📄 B-27-1-f.pptx # Project Presentation
-│── 📄 Final Complete Report -B-27.pdf # Detailed Project Report
-│── 📄 Buildings_comparision.ipynb # Major Project (Building Footprint Extraction)
-│── 📄 Mini1.ipynb # Mini Project 1 (SAM Multi-class Segmentation)
-│── 📄 Mini2 (1).ipynb # Mini Project 2 (Coconut Tree Analysis)
-│── README.md
-
-
----
+│
+├── B-27-1-f.pptx                      # Project Presentation
+├── Final Complete Report -B-27.pdf    # Detailed Project Report
+├── Buildings_comparision.ipynb        # Major Project (Building Footprint Extraction)
+├── Mini1.ipynb                        # Mini Project 1 (SAM Multi-class Segmentation)
+├── Mini2 (1).ipynb                    # Mini Project 2 (Coconut Tree Analysis)
+└── README.md
+```
 
 ## 📌 Project Overview
 
@@ -144,12 +143,12 @@ Includes detailed explanation of:
 ---
 ## 👩‍💻 Author
 
-** Miss Dasapalli Pravallika ** 
+**Miss Dasapalli Pravallika** 
 Velagapudi Ramakrishna Siddhartha Engineering College
 Vijayawada, India
 
 ## ⭐ Key Highlights
-Comparative study of ML, DL, and Foundation Models
-Real-world satellite image applications
-End-to-end pipeline implementation
-Includes notebooks, report, and presentation
+- Comparative study of ML, DL, and Foundation Models
+- Real-world satellite image applications
+- End-to-end pipeline implementation
+- Includes notebooks, report, and presentation
