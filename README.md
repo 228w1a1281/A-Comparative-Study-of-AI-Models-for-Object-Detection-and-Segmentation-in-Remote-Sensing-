@@ -120,10 +120,10 @@ Update dataset paths if required
 
 Includes:
 
-Problem Statement
-Methodology
-Implementation Workflow
-Results & Comparison
+-Problem Statement
+-Methodology
+-Implementation Workflow
+-Results & Comparison
 ---
 
 📄 Final Report
@@ -131,16 +131,16 @@ Results & Comparison
 📄 Final Complete Report -B-27.pdf
 Includes detailed explanation of:
 
-Algorithms
-System architecture
-Results analysis
-Conclusion & future work
+-Algorithms
+-System architecture
+-Results analysis
+-Conclusion & future work
 
 🎯 Applications
-Urban Planning (Building Detection)
-Smart Agriculture (Tree Analysis)
-GIS Mapping
-Environmental Monitoring
+-Urban Planning (Building Detection)
+-Smart Agriculture (Tree Analysis)
+-GIS Mapping
+-Environmental Monitoring
 
 ---
 👩‍💻 Author
