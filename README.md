@@ -3,7 +3,7 @@
 This repository contains a complete implementation and comparative analysis of **AI models for object detection and segmentation** using remote sensing imagery. The work is organized into **Mini Projects (Mini1 & Mini2)** and a **Major Project**, along with supporting documents.
 
 ---
-
+'''
 ## 📂 Repository Structure
 
 
@@ -114,6 +114,7 @@ pip install numpy pandas matplotlib opencv-python torch torchvision
 ▶️ Execute
 Run all cells step-by-step
 Update dataset paths if required
+---
 📽️ Project Presentation
 
 📄 B-27-1-f.pptx
@@ -124,6 +125,7 @@ Problem Statement
 Methodology
 Implementation Workflow
 Results & Comparison
+---
 📄 Final Report
 
 📄 Final Complete Report -B-27.pdf
@@ -139,6 +141,7 @@ Urban Planning (Building Detection)
 Smart Agriculture (Tree Analysis)
 GIS Mapping
 Environmental Monitoring
+---
 👩‍💻 Author
 
 Dasapalli Pravallika
