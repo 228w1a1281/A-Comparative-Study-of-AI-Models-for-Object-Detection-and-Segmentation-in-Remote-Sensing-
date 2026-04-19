@@ -143,8 +143,8 @@ Includes detailed explanation of:
 ---
 ## 👩‍💻 Author
 
-**Miss Dasapalli Pravallika** 
-Velagapudi Ramakrishna Siddhartha Engineering College
+**Dasapalli Pravallika** 
+- Velagapudi Ramakrishna Siddhartha Engineering College
 Vijayawada, India
 
 ## ⭐ Key Highlights
